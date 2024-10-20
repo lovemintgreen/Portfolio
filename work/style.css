@@ -1,0 +1,28 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(229,225,218,1.00) 0%,rgba(229,225,218,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(229,225,218,1.00) 0%,rgba(229,225,218,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(229,225,218,1.00) 0%,rgba(229,225,218,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(229,225,218,1.00) 0%,rgba(229,225,218,1.00) 100%);
+
+
+
+}
+.row {
+    background-color: #FBF9F1;
+    color: #BBBBBB;
+}
+body h1 {
+    background-color: #FBF9F1;
+    color: #5E5E5E;
+    font-family: "微軟正黑體", "標楷體";
+    text-shadow: 0px 0px;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: #AAD7D9;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: AAD7D9;
+    font-family: "微軟正黑體", "標楷體";
+    font-style: normal;
+}
